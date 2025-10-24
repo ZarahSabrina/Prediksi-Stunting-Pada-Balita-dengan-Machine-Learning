@@ -1,4 +1,0 @@
-streamlit>=1.38
-pandas
-scikit-learn
-xgboost
